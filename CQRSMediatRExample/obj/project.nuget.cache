@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3RZxFBHLYiRXF7qh0uGNdko8t5/p7OqW1CQLl2zALJKx6n9siIzU0/pbAAkcptVTPBWejBiBUo1X4Av0cpQ0tg==",
+  "dgSpecHash": "046umhn6bRnRbYQdRuNRDvQDo61mtQzSl/GiJPCvxFcWqP1G6aFXD/fQfO83Z9IOyAhYfcQHmeFgWN61Iwz8Jw==",
   "success": true,
-  "projectFilePath": "D:\\hareesh-dotnet-study\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
+  "projectFilePath": "D:\\DOT-NET-CQRS-MediatR\\CQRS-MediatR-GenericRepository\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Harsha\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\Harsha\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

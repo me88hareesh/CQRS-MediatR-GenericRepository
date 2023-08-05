@@ -149,11 +149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hareesh-dotnet-study\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
+      "projectUniqueName": "D:\\DOT-NET-CQRS-MediatR\\CQRS-MediatR-GenericRepository\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
       "projectName": "CQRSMediatRExample",
-      "projectPath": "D:\\hareesh-dotnet-study\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
+      "projectPath": "D:\\DOT-NET-CQRS-MediatR\\CQRS-MediatR-GenericRepository\\CQRSMediatRExample\\CQRSMediatRExample.csproj",
       "packagesPath": "C:\\Users\\Harsha\\.nuget\\packages\\",
-      "outputPath": "D:\\hareesh-dotnet-study\\CQRSMediatRExample\\obj\\",
+      "outputPath": "D:\\DOT-NET-CQRS-MediatR\\CQRS-MediatR-GenericRepository\\CQRSMediatRExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harsha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using CQRSMediatRExample.Queries;
+using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,5 +17,19 @@ namespace CQRSMediatRExample.Controllers
             _mediator = mediator;
             _sender = sender;
         }
+
+        [HttpGet]
+        public async Task<ActionResult> GetAllProducts()
+        {
+            var products = await _sender.Send(new GetProductsQuery());
+            return Ok(products);
+
+        }
+
+        //[HttpGet]
+        //public ActionResult getdata()
+        //{
+        //    return Ok("hi");
+        //}
     }
 }

@@ -4,7 +4,7 @@
     {
         private static List<Product> _products;
         public FakeDataStore()
-        {
+        { 
             _products = new List<Product>()
             {
                 new Product{Id = 1, Name="Test product 1"},
