@@ -23,7 +23,7 @@ namespace CQRSMediatRExample.Controllers
         {
             var products = await _sender.Send(new GetProductsQuery());
             return Ok(products);
-
+ 
         }
 
         //[HttpGet]
