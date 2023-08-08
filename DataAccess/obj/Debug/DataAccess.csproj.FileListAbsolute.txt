@@ -1,0 +1,2 @@
+D:\DOT-NET-CQRS-MediatR\CQRS-MediatR-GenericRepository\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\DOT-NET-CQRS-MediatR\CQRS-MediatR-GenericRepository\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
